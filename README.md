@@ -1,1 +1,5 @@
-# shortcuts
+# Shortcuts
+
+## Vim
+
+## VSCode
